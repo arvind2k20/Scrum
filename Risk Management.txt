@@ -1,0 +1,33 @@
+What is Risk?
+Risk is a potential problem that is not yet occured. The risk already occured is called issue and is treated separately in software project planning.
+
+
+Risk management is a critical activity in the project management planning and tracking. It include Risk Identification, Priortization and Treatment of risk faced by the business.
+
+
+Risk management is performed at various level e.g. Project level, program level, Industry level, country level or internaltional level.
+
+Risk arises from variety of perspective
+Project failure
+Safety
+Security
+Legal 
+liability and so on
+
+Lets look at the Risk Management process
+1) Risk Identification - Risk is identified within project scope. using number of resource, risk list and past history.
+
+
+2) Risk Priortization - Priortize the risk is it is properly identified.
+There are 2 thing
+Rate Risk Impact
+Rate Risk Probability
+Risk Index = Sum of (risk impact * Risk probability)
+
+3) Risk Treatment
+Risk Avoidance - postone the risky part to next release
+Riks Transfer - To transfer risk to specialized company
+Risk Mitigation - To solve the risk. To introduce an experience resource if the current team is inexperienced.
+
+Risk Acceptance -Any risk that is not treated that is accepted. Due to reason due to cost or unable to mitigate. Not having another server if the server crashes.
+
