@@ -1,0 +1,94 @@
+1 - D  F
+
+2 - A  F
+
+3 - A  T
+
+4 - D  T
+
+5 - A  T
+
+6 - C  T
+
+7 - A  T
+
+8 - C  T
+
+9 - D  T
+
+10 - A F
+-----------------------------------------
+
+***TeamCity for continuous integration.
+
+http://scrummethodology.com/
+Video and guide for scrum
+
+
+https://www.mountaingoatsoftware.com/presentations/adapting-to-agile
+ADAPT in Scrum
+
+The leading agile speaker and author Mike Cohn describes how you can iterate toward increased agility by combining a senior-level guiding coalition with multiple action teams. He introduces the five steps necessary for any successful agile transition, as expressed by the acronym ADAPT: 
+
+Awareness, Desire, Ability, Promote, and Transfer. 
+
+Join him in exploring the true role of leaders and managers in guiding self-organizing teams toward agility.
+
+
+
+
+ADAPT is an acronym for the activities in an Agile transition plan. The first 'A' stands for 'Awareness'. Why is Awareness important as a first step when introducing Agile?
+
+
+
+[Because everyone needs to learn to think and work as a team.]
+3rd letter -> Incorrect. This is the second 'A' in ADAPT which stands for 'Ability'. Before we acquire the ability to be Agile, including learning to think and work as a team, we need to be aware of why we are changing.
+
+
+[Because there needs to be a common understanding that the current process is not delivering acceptable results.]
+Correct. We need to know why we need to change in order to get the motivation to change the current process to deliver acceptable results.
+
+[Because Agile techniques should not be used in one isolated department.]
+Incorrect. This is the 'T' in ADAPT which stands for 'Transfer'. Before we transfer Agile techniques throughout the company, we need to be aware of why we are changing.
+
+
+
+=>The Scrum Framework implements the cornerstones defined by the agile manifesto:
+? Individuals and interactions over processes and tools
+? Working software over comprehensive documentation
+? Customer collaboration over contract negotiation
+? Responding to change over following a plan
+
+
+
+=> The Scrum Framework in its simple form is best used for smaller, one-team projects. But with the introduction of additional roles like the "Chief Scrum Product Owner" it is also usable in bigger multi-teams and/or distributed-team projects.
+
+
+=> The Scrum framework changes the classical triangle of project management. The compromise is no longer between Time, Budget and Quality. It is now becoming the triangle of Budget, Time and Functionality.
+
+
+=> In Scrum the factors that define when a feature is complete (in terms of quality, required testing, documentation etc.) are defined by the Definition Of Done (DoD) right at the start of the project.
+
+
+=> To work effectively it is important for a Scrum Team that everyone within the team
+? follows a common goal
+? adheres the same norms and rules
+? shows respect to each other
+
+
+=>Tuckman-Model
+When setting up a new Scrum Team one always has to keep in mind that no new team will deliver with the highest possible performance right from the beginning. After setting up the team it has to go through certain phases as described by the Tuckman-Model: Forming, Storming, Norming, Performing. 
+
+How long it takes until the Scrum Team is in the Performing Phase depends on the team, and yet it normally takes about 3 Sprints until the teams is mature enough to deliver their results in a predictable way.
+
+
+=>Size of the Scrum Team 
+Scrum Teams are small. The ideal size is 7 +/- 2 people.
+
+SCRUM USER STORIES
+As an [actor], I [want|must] [action] so that [achievement]
+As an authorized user, I must login to review my profile
+
+
+=>SCRUM EFFORT ESTIMATIONS – PLANNING POKER®
+
