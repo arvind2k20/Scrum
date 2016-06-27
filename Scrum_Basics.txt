@@ -1,0 +1,31 @@
+arvind
+arvind1980
+http://mockexam4u.com/certification/scrum-master-accredited-certification/
+
+http://scrumtrainingseries.com/
+
+Scrum values are five: Focus, Courage, Openness, Respect, Commitment.
+
+During a Scrum of Scrums approach for a project, what best defines the definition of "done"?
+Explanation: When considering the Scrum of Scrums, each Scrum team can use their own definition of done, but they have to make it clear to all other teams in order for all the teams to synchronize together their work at the end of each sprint, so they can consider each other’s DoD (definition of done)
+
+
+ Product backlog management include expressing & elaborating on the different product backlog items, authoring those items, changing the prioritization of the backlog according to the Business value, and adding & deleting any further items.
+
+
+ The sprint review meeting is proportional to the sprint duration, it’s almost half the duration of the sprint planning meeting, and is proportional to the sprint duration 1:1, which means 1 week of sprint duration is equal to 1 hour sprint review meeting duration, 2 weeks sprint duration, means 2 hours sprint review meeting, and so on.
+
+
+The Sprint planning meeting consists of 2 parts/sessions, the first one is for the Product Owner to elaborate more on the product backlog items & showing what he aims to accomplish in the coming sprint (setting the sprint goal), the second session is mainly for the team to plan, estimate & commit to the amount of work that they’ll finish during the coming sprint.
+
+ He has to make everyone abide to the rules of the daily stand-up meeting, and the improvements or anything went wrong in the sprint shall be placed on the table during the Sprint retrospective meeting.
+
+What are the most critical items to start a Scrum Project?
+This is the answer where no duplications, and where all the required Scrum project components are available. To start a Scrum Project you’ll need to have a product backlog to define your product & the project scope, then the team to build that product, the maestro who will lead all that (scrum master), and the connection between those & the business who is accountable for the Return On Investment (ROI) ( product owner).
+
+__ constitute the Sprint Backlog and are normally estimated in hours.
+Tasks constitute the Sprint Backlog and are often estimated in hours. Alternate choices: Use cases are used for either requirements. A task may be to create use cases. Stories, also known as Storycards, are what may be used to document the product backlog item. Features requested by Product Owners are generally expressed in the Product Backlog as one or more story cards.
+
+
+The Sprint Backlog is ultimately owned by:
+The Scrum product owner is the person who is ultimately responsible& accountable for maintaining the Product/Scrum backlog, as he has to prioritize the items in the backlog mainly according to the return on Investment (ROI).

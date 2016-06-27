@@ -1,0 +1,10 @@
+
+AngularJs and Web API
+http://www.dotnetfunda.com/articles/show/3309/a-beginners-guide-to-work-with-aspnet-web-api-and-angularjs
+
+
+https://jasenhk.wordpress.com/2013/06/11/unit-of-work-and-repository-pattern-with-unity-dependency-injection/
+
+
+
+
