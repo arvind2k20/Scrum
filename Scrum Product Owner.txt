@@ -1,0 +1,49 @@
+Top 7 Responsibilities of a Scrum Product Owner
+
+By Laszlo Szalvay
+[ Print | Email This | Bookmark ]
+
+There are three fundamental roles in the Scrum method of agile software development: the Product Owner, the ScrumMaster, and the team. The Product Owner is the one person responsible for a project’s success. In other words, if a project flops, it’s the Product Owner who must face the music. What follows doesn’t include every activity a Product Owner should consider or every rule he or she should follow. In fact, trying to account for every conceivable demand placed on a Product Owner would be impossible. But this list of seven do’s will help aspiring Product Owner make sure they’re covering the basics.
+
+The Product Owner leads the development effort by conveying his or her vision to the team and outlining work in the Scrum backlog. The Product Owner drives a project by communicating directly with the team, while visually demonstrating prioritization decisions in the backlog.
+
+The Product Owner prioritizes work based on Business Value. Scrum is unique its reliance on empirical data to inform development decisions. Thus the Product Owner prioritizes a team’s work based on the Business Value it will generate.
+
+The Product Owner negotiates work with the team. At the beginning of each sprint, the team and the Product Owner meet to determine what work will be tackled for the sprint. However, this work is negotiated, rather than merely assigned. It is the team’s responsibility to update the Product Owner about any impediments obstructing progress to help ensure that prioritization is fully informed. Likewise, the Product Owner must respect the team’s established velocity—a metric used to track how much work a team can accomplish in a single sprint.
+
+The Product Owner must remain available to the team to answer questions and deliver direction. Because the Product Owner best understands the vision of the project, he or she will want to remain highly accessible to the development team to clarify acceptance criteria, articulate customer desires, and so on.
+
+The Product Owner must resist the temptation to micromanage. Because the Scrum framework vests the Product Owner with authority over the team, while asking that he or she remain available to the team, it is extremely common for a Product Owner to be tempted to behave like a traditional manager and micromanage the team. However, Scrum values self-organization and, as a result, the Product Owner must respect the team’s ability to create its own plan for completing sprint goals.
+
+The Product Owner must resist “raiding the team’s sprint.” For Scrum to yield hyper-performing teams, teams must be given the entirety of the sprint to complete work without interruption. This means that a Product Owner is forbidden to give the team more work in the middle of the sprint, which is often referred to as “raiding the sprint.” Even if requirements change or a rival organization unveils a new product that renders the team’s work all for naught, the Scrum Product Owner cannot alter the sprint until the next sprint planning meeting.
+
+The Product Owner must not be afraid to make tough decisions. Because the Product Owner is the single person responsible for whether a project sinks or swims, he or she must have the confidence to make decisions that are best for the business. These decisions may be unpopular with the development team, but the Product Owner must consider the expectations of stakeholders and customers first.
+Laszlo Szalvay, President, Danube Technologies, Inc. Founded in 2000 by Laszlo Szalvay and his brother Victor, Danube provides software and training exclusively focused on the Scrum method of agile software development. The company's ScrumWorks® Pro and ScrumWorks Basic products are licensed to more than 115,000 software professionals worldwide, making it the most widely used software in the industry for managing Scrum projects. Danube complements its software offering with a comprehensive schedule of ScrumCORE™ training courses, which are taught globally by Danube's five Certified Scrum Trainers. In all, Danube offers a comprehensive Scrum solution. So when you're ready to succeed with Scrum, call Danube.
+
+
+
+http://etutorials.org/Microsoft+Products/Agile+Project+Management+with+Scrum/Chapter+5+The+Product+Owner/
+
+http://www.scrumsense.com/wp-content/uploads/2011/02/Product-Owners-Manual.pdf
+
+http://www.scrumsense.com/resources/product-owner-manual/
+
+https://www.scrum.org/Assessments/Professional-Scrum-Product-Owner-Assessments/PSPO-I-Assessment?gclid=CKzdkuiE0M0CFVOhaAodqiUPSw
+
+
+http://www.tutorialspoint.com/cmmi/cmmi-maturity-levels.htm
+
+
+https://www.atlassian.com/agile/kanban
+
+http://www.springpeople.com/courses/regular/scrum-product-owner-workshop-training-course
+
+
+
+
+
+
+
+
+
+
