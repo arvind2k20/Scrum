@@ -1,0 +1,21 @@
+Business process management (BPM)
+http://searchcio.techtarget.com/definition/business-process-management
+http://bpm.com/what-is-bpm
+
+Business process management (BPM) is a systematic approach to making an organization's workflow more effective, more efficient and more capable of adapting to an ever-changing environment. A business process is an activity or set of activities that will accomplish a specific organizational goal.
+
+The goal of BPM is to reduce human error and miscommunication and focus stakeholders on the requirements of their roles. BPM is a subset of infrastructure management, an administrative area concerned with maintaining and optimizing an organization's equipment and core operations.
+
+
+BPM is often a point of connection within a company between the line-of-business (LOB) and the IT department. Business Process Execution Language (BPEL) and Business Process Management Notation (BPMN) were both created to facilitate communication between IT and the LOB. Both languages are easy to read and learn, so that business people can quickly learn to use them and design processes. Both BPEL and BPMN adhere to the basic rules of programming, so that processes designed in either language are easy for developers to translate into hard code.
+
+There are three different kinds of BPM frameworks available in the market today. Horizontal frameworks deal with design and development of business processes and are generally focused on technology and reuse. Vertical BPM frameworks focus on a specific set of coordinated tasks and have pre-built templates that can be readily configured and deployed. Full-service BPM suites have five basic components:
+
+Process discovery and project scoping
+Process modeling and design
+Business rules engine
+Workflow engine
+Simulation and testing
+While on-premise business process management (BPM) has been the norm for most enterprises, advances in cloud computing have lead to increased interest in on-demand, software as a service (SaaS) offerings.
+
+See also: business process outsourcing (BPO), Web Services Description Language (WSDL), enterprise application integration (EAI), business process reengineering (BPR), business activity monitoring (BAM)
